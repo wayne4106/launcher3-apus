@@ -11,14 +11,14 @@ Feel free to fork and use this as a base project for any launchers you might wan
 
 肯定会踩过很多坑
 
-1：Launcher相关的源码分析
-        Launcher  UML类图以及代码结构
-        Launcher  开机加载到launcher加载启动流程
-        Launcher  布局构成
-        VIEW的学习
-        图标的拖拽流程，动画
-        分屏的滑动流程
-        处理Widget定义等等
+1：Launcher相关的源码分析\n
+        Launcher  UML类图以及代码结构\n
+        Launcher  开机加载到launcher加载启动流程\n
+        Launcher  布局构成\n
+        VIEW的学习\n
+        图标的拖拽流程，动画\n
+        分屏的滑动流程\n
+        处理Widget定义等等\n
 
 2：apus动画、效果分析
 
