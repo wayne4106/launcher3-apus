@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/apple/Documents/launcher3/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/jars/libs/internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="/Users/apple/Documents/launcher3/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.0-c92286141234b3fa0c970973e4dc52184e4af4d4.jar" />
+    </item>
+    <item
+        jar="/Users/apple/Documents/launcher3/app/lib/protobuf-java-2.3.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="6311b2f08c0b08fd3da4d5e4f6aaa286c9e97918">
+        <dex dex="/Users/apple/Documents/launcher3/app/build/intermediates/pre-dexed/debug/protobuf-java-2.3.0-fef4ba76772fbc870f78756660f0fb3b35c1e822.jar" />
+    </item>
+    <item
+        jar="/Users/apple/Documents/launcher3/app/build/intermediates/exploded-aar/launcher3/wallpaper_picker/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="49b25af2572a7ddced86567e6fe007abe4d4e442">
+        <dex dex="/Users/apple/Documents/launcher3/app/build/intermediates/pre-dexed/debug/classes-8c5ffafdb79a9a740c851461cc4912c703b413ee.jar" />
+    </item>
+    <item
+        jar="/Users/apple/Documents/launcher3/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="/Users/apple/Documents/launcher3/app/build/intermediates/pre-dexed/debug/classes-3fdda6474edfe444c18b0a83ac93677b23929d62.jar" />
+    </item>
+    <item
+        jar="/Users/apple/Documents/adt-bundle-mac-x86_64-20140702/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.0/support-annotations-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="/Users/apple/Documents/launcher3/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.0-63a81290838471a0f17bbca58efa3a84eed35b89.jar" />
+    </item>
+    <item
+        jar="/Users/apple/Documents/launcher3/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="40e7757d9b06db670062ddb3cf5b30c129b2fd8c">
+        <dex dex="/Users/apple/Documents/launcher3/app/build/intermediates/pre-dexed/debug/classes-92287bee2abaaa0f4657e57acf52ee5df5035165.jar" />
+    </item>
+
+</items>

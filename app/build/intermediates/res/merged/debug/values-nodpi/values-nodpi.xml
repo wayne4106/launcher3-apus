@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/apple/Documents/launcher3-apus/app/build/intermediates/exploded-aar/launcher3-apus/wallpaper_picker/unspecified/res/values-nodpi/values-nodpi.xml -->
+    <eat-comment/>
+    <string-array name="wallpapers" translatable="false">
+    </string-array>
+</resources>
